@@ -1,2 +1,1 @@
-# PrepCopurseHenry
-Este es un repositorio de la clase 2 del Prepcourse de Henry
+Esto es una prueba de como crer un repositorio y clonarlo desde github a mi pc.
